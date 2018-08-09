@@ -1,0 +1,1956 @@
+fileFormatVersion: 2
+guid: 32e36f7b209be084cb2a743394a4f72e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_0
+    21300002: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_1
+    21300004: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_2
+    21300006: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_3
+    21300008: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_4
+    21300010: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_5
+    21300012: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_6
+    21300014: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_7
+    21300016: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_8
+    21300018: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_9
+    21300020: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_10
+    21300022: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_11
+    21300024: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_12
+    21300026: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_13
+    21300028: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_14
+    21300030: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_15
+    21300032: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_16
+    21300034: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_17
+    21300036: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_18
+    21300038: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_19
+    21300040: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_20
+    21300042: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_21
+    21300044: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_22
+    21300046: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_23
+    21300048: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_24
+    21300050: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_25
+    21300052: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_26
+    21300054: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_27
+    21300056: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_28
+    21300058: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_29
+    21300060: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_30
+    21300062: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_31
+    21300064: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_32
+    21300066: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_33
+    21300068: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_34
+    21300070: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_35
+    21300072: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_36
+    21300074: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_37
+    21300076: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_38
+    21300078: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_39
+    21300080: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_40
+    21300082: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_41
+    21300084: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_42
+    21300086: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_43
+    21300088: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_44
+    21300090: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_45
+    21300092: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_46
+    21300094: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_47
+    21300096: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_48
+    21300098: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_49
+    21300100: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_50
+    21300102: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_51
+    21300104: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_52
+    21300106: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_53
+    21300108: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_54
+    21300110: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_55
+    21300112: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_56
+    21300114: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_57
+    21300116: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_58
+    21300118: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_59
+    21300120: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_60
+    21300122: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_61
+    21300124: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_62
+    21300126: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_63
+    21300128: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_64
+    21300130: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_65
+    21300132: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_66
+    21300134: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_67
+    21300136: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_68
+    21300138: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_69
+    21300140: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_70
+    21300142: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_71
+    21300144: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_72
+    21300146: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_73
+    21300148: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_74
+    21300150: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_75
+    21300152: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_76
+    21300154: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_77
+    21300156: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_78
+    21300158: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_79
+    21300160: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_80
+    21300162: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_81
+    21300164: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_82
+    21300166: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_83
+    21300168: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_84
+    21300170: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_85
+    21300172: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_86
+    21300174: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_87
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 344
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceadf3700f7b0e41ad13b9fcb4b45e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 344
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4949c71e17e34f88dd6112606340d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 344
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f01d3ca819954da103b40451fcf69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 344
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e1eb2a007a6f4490ec784a73e7bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 344
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409d970400742f48986308fbadeb5ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 344
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cbd13b4b3581c469ef5e02d9e1627a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 344
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5418660ceebac7542835b05f7dad9ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b4b3b61a94ed4f971c186210145ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 344
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbacf764ba283004d9e23dfacfaf8b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 374
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae46403e510d5a44935cf84f663e76b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 376
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789dc9eb4ee7f2b43b992228e590d863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 344
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984599abe0e65dd4cb66e2c495e71ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 344
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a5031905735142813bdbbdf704d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 374
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1df5febfffba44ea45b8d518b66d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_14
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 322
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586e55e756dd405438494b0806b32065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 320
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c798c043de23b446bc9603035af1b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 302
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64186a5b70be84148a06165ec49c7177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc57c9380bf504a880f70f75f9dfa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96a90518371d643b070bd7f903605d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 265
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e597c754287d37498e0deb2210e40c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c43516e4e7edf4b91ba2c25494030e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 275
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119cf456b0f078488bf2bb99a8a67cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432974277947a24db5c696f8e91bb95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 299
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc9df1decea8204eb4c5a6ce4e5547a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 264
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74fcd927f5da024fa716af92ccefe98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 264
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580f23269e6d954a9bc1ee9175b2554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 292
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3276161f928ab3a41b50dc8217b92f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 264
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b35bc3862eb51a488fcc94187d1399b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 264
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf33fce95cfaba489b4ef552d83a21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 285
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338d1b722e38024fa16060cf871cdfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 277
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ca544929f80e4facc4beaec9e07a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 284
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85242c64ac1bb174dbcd978168575ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae4210409bf6d49ba40e41c7febffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 274
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6500701689bcb4884863f5ec1276e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 274
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effc0b5892116a24e9bf84ac682f94c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 265
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51f27ec094ebf4793b4180f3616285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 264
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea954527a0f82d4a810267614d1b2bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 264
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddb05beeac89d429730a4580885c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 230
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed607ee3e868742a0cb618479d86c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae9a11a13dfa240b33df922575d784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 238
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63178e907399b334dbeb69be48ff69f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 184
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177e349ad8eec246b9393f38220fb37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3057056ce8917438d18484f02a8f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 184
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d663fc6a0e2cf4d9db56ad3f4301ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 218
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819cba4a3c7bc845b9982bfa0e53799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 184
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5309ab389fd69df428d6b5d4a578286b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 184
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea1f22a1cc2cd4cb1a8ed8a56e60bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 184
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2332b578df10458087aaa30faa215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 184
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a7c9983e30ae941b173e9392a5aea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb08fe33db6991e41a36359316722e39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c8eeb98001ff44a81ea15c8db316b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 206
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a07bf98678e444bb68d4f29dbab58a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 215
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11793b302c41e946952b1d73666d00e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_53
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 185
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729acf3c79e36fb4eaf0cad0adf562e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_54
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 184
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512562ebf6ec79040ababc28a0f84977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b697292f800251478c3cdc7437e1b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2fb9bc34017949a9a5a01a5157118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 98
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d113a2e5e94f06429b10e61830e5ff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd93c71def17b07429f250447889bd03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_59
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 154
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ffb33d090757488896682815bd185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 138
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c29fa7341c8547ba26632e61dedf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 136
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d91408df37b8141b023f3532714397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_62
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 96
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61659d7dfed94ce47abdc80094f552ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 96
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3859e679b1bb045816636905b79fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f44028dbd10284b9e2304f2fb4ffd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_65
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 148
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f6890febf19a4097a855b69ad1be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57056af57561df54e9012229498eee46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_67
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 134
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0aa7d7bc2ee63448e9ea1200022563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b0da76b6ac71a4aa8bf962a8e6d487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6db6be5502fc40827ef7dd046e7dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 106
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc46a1cb88a1214887216e1f75eb5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 58
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778f0e2254131649b70787f6a06e5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f70b1ca3e50d459432e798b832d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffe7588c870864494c4c2d0edee279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98ad51678b60c48a2ca5ad519be7da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258dda974a76e3a4babe0500ca9a45c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_76
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 54
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ac3d5480b4a740b9d27a4cb822a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_77
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 24
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338422c1c4b597c49888c0747ee04dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c5afb69f195747a21f58a36fbbfd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 60
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e714d97d985e3489dbc039f33a931e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 61
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b7176c08aa6d498a06946012e9da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_81
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 24
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269f3bcdef8a6e449214fa22d327183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b27d1cb26cbf734d84a027d0b441b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8411f1c569ad814cbca176b9f6c65e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_84
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4537393769d331418b24bf2f9163fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 24
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba7026436d57e945b49748710b403b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_86
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 24
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d56da5ce75318b4081b4b59b31b4ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe II - Gilius Thunderheadpngrfzfqz_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 525
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8a4b66fb0d6f4d923cc41858258f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 149b51ff336ea544fa17ff6f9f140128
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

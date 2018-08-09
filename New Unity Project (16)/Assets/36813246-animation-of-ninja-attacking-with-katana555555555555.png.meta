@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 3dbc84e021e40464bbb4bddb33f25dc7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 36813246-animation-of-ninja-attacking-with-katana555555555555_0
+    21300002: 36813246-animation-of-ninja-attacking-with-katana555555555555_1
+    21300004: 36813246-animation-of-ninja-attacking-with-katana555555555555_2
+    21300006: 36813246-animation-of-ninja-attacking-with-katana555555555555_3
+    21300008: 36813246-animation-of-ninja-attacking-with-katana555555555555_4
+    21300010: 36813246-animation-of-ninja-attacking-with-katana555555555555_5
+    21300012: 36813246-animation-of-ninja-attacking-with-katana555555555555_6
+    21300014: 36813246-animation-of-ninja-attacking-with-katana555555555555_7
+    21300016: 36813246-animation-of-ninja-attacking-with-katana555555555555_8
+    21300018: 36813246-animation-of-ninja-attacking-with-katana555555555555_9
+    21300020: 36813246-animation-of-ninja-attacking-with-katana555555555555_10
+    21300022: 36813246-animation-of-ninja-attacking-with-katana555555555555_11
+    21300024: 36813246-animation-of-ninja-attacking-with-katana555555555555_12
+    21300026: 36813246-animation-of-ninja-attacking-with-katana555555555555_13
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 576
+        width: 238
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443d3aca17a22740b92f0f53e855084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 576
+        width: 237
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27308a6430a464bb31c659397aebe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 576
+        width: 237
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241ace9b7fe9774c931895325691df5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 565
+        width: 232
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11f543c3b948346a0ddcbe71ed8191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_4
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 570
+        width: 338
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3760bb3f91c0cb44a9127d2adaf0f0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 324
+        width: 267
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76728cfc5c3ae9e45afa37f638a188a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 195
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02246d06c8c1fb5458062ef45db2c0af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 321
+        width: 206
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea5c691facb7614f8d5131749023105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 321
+        width: 207
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ed78ae74ea0d4ea54a0ea7a83dd0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 314
+        width: 278
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235992a7fac7c0b4e800fe2723d4bd6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c368358250aa40bbe3a8d89bb4a60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 22
+        width: 313
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea089644bde56ce49a9424b89ec3987b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 41
+        width: 313
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7e8c7f0cf81947ab41dbef27ed587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36813246-animation-of-ninja-attacking-with-katana555555555555_13
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 58
+        width: 313
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2553686141743504e84632657bef5348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cbe695bc8c0e9a4a82dbd9b5c5722e1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

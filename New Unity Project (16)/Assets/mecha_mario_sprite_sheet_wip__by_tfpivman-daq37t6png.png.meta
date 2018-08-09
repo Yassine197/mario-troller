@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: 5ef25574f19b9c446a5719d9835d6d02
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_0
+    21300002: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_1
+    21300004: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_2
+    21300006: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_3
+    21300008: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_4
+    21300010: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_5
+    21300012: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_6
+    21300014: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_7
+    21300016: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_8
+    21300018: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_9
+    21300020: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_10
+    21300022: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_11
+    21300024: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_12
+    21300026: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_13
+    21300028: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_14
+    21300030: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_15
+    21300032: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_16
+    21300034: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_17
+    21300036: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_18
+    21300038: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_19
+    21300040: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_20
+    21300042: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_21
+    21300044: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_22
+    21300046: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_23
+    21300048: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_24
+    21300050: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_25
+    21300052: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_26
+    21300054: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_27
+    21300056: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_28
+    21300058: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_29
+    21300060: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_30
+    21300062: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_31
+    21300064: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_32
+    21300066: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_33
+    21300068: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_34
+    21300070: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_35
+    21300072: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_36
+    21300074: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_37
+    21300076: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_38
+    21300078: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_39
+    21300080: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_40
+    21300082: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_41
+    21300084: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_42
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 300
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645bb8f2ec03e8d41a94f6c2cb878023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eba7deb55c4d3a46949c681fd5d414e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 300
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08554258b1c63449004e5911046d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 300
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3c5f29d2e067498fb8f8e8fc80d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48da9dcdc8b2c4d9f69e1c08d5d809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 300
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbecfaf03f066e54e8511e639d371865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 300
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c02ea0a1422eb49a5cb40b98f7aff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 300
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670694e4556f9c341bea8e1dc023510e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 300
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41dc888e045283408dad3945dbb1132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 303
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fea00be8e94144a92c2ae249dc8af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 300
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac475703f0afcd14bbf6244d6c7c2db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 300
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ef37e5f5ef3641ab0557fa239a710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 227
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5793d900e74ef65438db9d613aa302c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 233
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88190a10ff3634e9fadf3801973389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 233
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc87c8332e1fc745b6e77459ae351ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 230
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f9dd7b703178243bccbc8f16030e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2fc043cebdfd4ea430e84583c4918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 229
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f71bfa9d63d9b4cbf3c5354316969f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 231
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff576cf3fac1b904fb0372af1f73d528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 231
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d442e2db9d8874898876c2238d1128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 168
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a120e304e95df44e9fa1f5461e55206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 168
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db8c79925f6df840954785db3b7ce12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 168
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1382b3f3722d0324fa13fb0735fcf260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 168
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1c2c717c1bad49857fb8579c65c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 168
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b7a4feb24aac41be46ee4f6cb6212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 168
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453c5e224bf3f3b469ed87ca85db2045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 168
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390eb9c20615804ca3c33437ba0c893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 165
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04b3b7219c19b642b3faf7024996376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 165
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90a78658c197d4290d353014f3cb41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 110
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b376683ea231400448ddc58cc8399d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 107
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcf35585f438474ca8d651751c657cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 109
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb629b1e24b3b43b0e178ba1d2ef95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae3d7fd4571eba408286e82f1591b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdfe45a9fbd25f40a72dadaeff74bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 110
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498938e34a350947a58878d27dedf71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 110
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c793b0d741c5c48957336b6fd967af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 106
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f65c602cd6da4c98c3bc9435b00e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 25
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f82b20ef2358478ad216efe2933f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d884b3becc674c4e8d65c474b2bb8e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd33b871ac4fe48bfdeefeb894d6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 33
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12a04c10af814f4ea18f0d4d47548bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 77
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcaccfd28be3534285d2f76f24f90ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha_mario_sprite_sheet_wip__by_tfpivman-daq37t6png_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 34
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70f27caafeccb4a9f25cf9f1944cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5fb57ab15783cb34bae56d500ee035be
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
